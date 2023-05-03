@@ -17,12 +17,47 @@ hr{
     background-color: white;
 }
 
-section{
+.section-1{
     background-color: aqua;
 }
 
-.avatar{
+img{
     width: 200px;
     margin: 0 auto;
     
+}
+
+.line2{
+    background-color: black;
+    width: 100px;
+    height: 5px;
+}
+
+.cabin{
+    background-color: red;
+}
+
+.cake{
+    background-color: paleturquoise;
+}
+
+.circo{
+    background-color: black;
+}
+
+.game{
+    background-color: rgb(35, 219, 207);
+}
+
+.safe{
+    background-color: blue;
+}
+
+.submarine{
+    background-color: bisque;
+}
+
+div.row.cards>*{
+    border: 3px solid white;
+    margin-top: 10px;
 }
