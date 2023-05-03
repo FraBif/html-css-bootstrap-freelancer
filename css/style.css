@@ -33,31 +33,17 @@ img{
     height: 5px;
 }
 
-.cabin{
-    background-color: red;
-}
-
-.cake{
-    background-color: paleturquoise;
-}
-
-.circo{
-    background-color: black;
-}
-
-.game{
-    background-color: rgb(35, 219, 207);
-}
-
-.safe{
-    background-color: blue;
-}
-
-.submarine{
-    background-color: bisque;
-}
-
 div.row.cards>*{
-    border: 3px solid white;
-    margin-top: 10px;
+   margin-top: 8px;
+}
+
+.section-3{
+    background-color: aqua;
+}
+
+.button{
+    border: 1px solid white;
+    color: white;
+    width: 100px;
+    margin: 0 auto;
 }
